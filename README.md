@@ -1,6 +1,6 @@
 # Primer Duplicado
 
-Dado un arreglo `a` que contiene sólo numeros en el rango de `1` a `a.length`, encuentre el primer **número** duplicado para el cual la segunda ocurrencia tiene el mínimo índice. En otras palabras, si hay más de un número duplicado, retorna el **número** para el cual la segunda ocurrencia tenga un índice menor que la segunda ocurrencia del otro número. Si no hay tales elementos, retorne `-1`.
+Dado un arreglo `a` que contiene sólo numeros en el rango de `1` a `a.length`, encuentre el primer **número** duplicado para el cual la segunda ocurrencia tiene el mínimo índice. En otras palabras, si hay más de un número duplicado, se debe retornar el número duplicado que tenga su segunda ocurrencia en un índice menor. Si no hay tales elementos, retorne `-1`.
 
 ## Ejemplos
 
