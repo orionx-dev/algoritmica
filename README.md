@@ -50,4 +50,4 @@ Dado un arreglo `a` que contiene sólo numeros en el rango de `1` a `a.length`, 
 
 `a = [1, 1, 2, 2, 1] // 1`
 
-`a = [3, 2, 1, 1, 2, 3] // 1`
+`a = [4, 3, 2, 1, 1, 2, 3, 4] // 1`
