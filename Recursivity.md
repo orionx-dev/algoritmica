@@ -27,4 +27,7 @@ const haystack = {
 
 console.log(contains(haystack, 33)); // true
 console.log(contains(haystack, "foo")); // false
+console.log(contains(haystack, "foo2")); // true
+console.log(contains(haystack, 55)); // true
+
 ```
