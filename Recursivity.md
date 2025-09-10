@@ -1,6 +1,7 @@
 # Ejercicios de Recursividad
 
-## Búsqueda en un objeto
+
+## Búsqueda en un objeto
 
 Escriba una función llamada `contains` que busque por un valor en un objeto anidado de múltiples niveles. Debe retornar `true` si es que el objeto contiene el valor dado.
 
